@@ -3,19 +3,12 @@ title: 'SOS 598 Research Data Management Course Policies'
 markup: "mmark"
 ---
 
-### Instructor
-
-Stevan Earl
-
-  - *email*: stevan.earl'at'asu.edu
-  - *phone*: 5-1851
-  - *office*: TBD
-
 ### Office hours
 
-Office hours are held Friday afternoons 14:00-16:00. Additionally, students are
-welcome and encouraged to contact the instructor by email to schedule
-appointments outside of the designated office hours.
+Office hours are held Friday afternoons 14:00-16:00 at a location to be
+determined. Additionally, students are welcome and encouraged to contact the
+instructor by email to schedule appointments outside of the designated office
+hours.
 
 ### Course description
 
@@ -48,40 +41,39 @@ resources.
 
 Students completing this course will:
 
-1.  Understand the benefits of a structured approach to managing the
-    data produced by research projects and experiments.
+1.  Understand the benefits of a structured approach to managing the data
+    produced by research projects and experiments.
 2.  Recognize data and metadata quality issues, and understand the impact on
     the value of the data.
-3.  Be able to organize data and prepare metadata to facilitate
-    publication of research data.
-4.  Apply data management principles to prepare a Data Management Plan,
-    as required by many funding agencies.
-5.  Know where to seek new knowledge in this rapidly evolving field -
-    unless you are keeping up with it, you are falling behind.
+3.  Be able to organize data and prepare metadata to facilitate publication of
+    research data.
+4.  Apply data management principles to prepare a Data Management Plan, as
+    required by many funding agencies.
+5.  Know where to seek new knowledge in this rapidly evolving field.
 
 ### Course materials
 
-Materials for this class will consist primarily of research articles and
-business reports. All documents (or links to the documents) will be made
+Materials for this class will consist primarily of research articles, book
+chapters, and posts. All materials (or links to the materials) will be made
 available through the course GitHub repository prior to the class period.
 Instructor presentations will typically be posted to the course GitHub
 repository for student review at least one week in advance. Assignments and
 corresponding grading rubrics are provided on the course GitHub repository.
 
-### Student grading (*TBD*)
+### Student grading
 
 | component                                | percentage |
 | :--------------------------------------- | ---------: |
-| GitHub account & repository              |          5 |
-|                                          |            |
-|                                          |            |
-|                                          |            |
-|                                          |            |
-|                                          |            |
+| GitHub account                           |         10 |
+| student participation (see below)        |         10 |
+| data structure                           |         15 |
+| literate programming                     |         15 |
+| data management plan (DMP) + review      |      20+10 |
+| creating metadata + review               |       15+5 |
 
 <br>
 
-We strongly encourage **student participation**. Evidence of being prepared for
+We encourage **student participation**. Evidence of being prepared for
 discussion in class, including but not limited to having completed reading
 assignments prior to class, contributing insightful comments, and a commitment
 to class activities will demonstrate levels of preparedness and participation

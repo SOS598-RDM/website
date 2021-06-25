@@ -4,7 +4,7 @@ description: "This course will provide students with foundations of sound resear
 markup: "mmark"
 ---
 
-### course info
+### course details
 
 #### lectures
 
@@ -12,16 +12,23 @@ markup: "mmark"
 
 <font color="#6CA0DC"><i class="fas fa-calendar-alt fa-lg"></i></font> &nbsp; Friday 12:15 - 13:30
 
-### instructor
+#### instructor
 
+[Stevan Earl](https://sustainability.asu.edu/person/stevan-earl/) 
+- <a href="mailto:stevan.earl@asu.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/SOS598-RDM" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/StevanEarl" title="Twitter"><i class="fa fa-twitter"></i></a>
+- phone: 5-1851
+- office: TBD
+
+<!--
 {.table .table-condensed .table-striped .text-left}
 <span></span>     | <span></span>    | <span></span>    |  <span></span>      
 ------------------|------------------|------------------|------------------ 
 [Stevan Earl](https://sustainability.asu.edu/person/stevan-earl/) | <a href="mailto:stevan.earl@asu.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/SOS598-RDM" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/StevanEarl" title="Twitter"><i class="fa fa-twitter"></i></a> | TBD
+-->
                   
 #### prerequisites
 
-There are not any formal pre-requisites for this course. However, scripting is
+There are not any formal prerequisites for this course. However, scripting is
 an integral component of the course and, though not required, students will
 benefit by having some familiarity with a data-centric scripting language
 (e.g., R, Python, Matlab).
