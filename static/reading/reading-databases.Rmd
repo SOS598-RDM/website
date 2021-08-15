@@ -1,5 +1,5 @@
 ---
-title: "reading: databases"
+title: databases
 output: 
   html_document: 
     theme: yeti
@@ -8,11 +8,11 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br>
 
-#### required
+#### recommended readings: databases
 
-- [Zimmerman N. 2016. Hand-crafted relational databases for fun and science](https://datacarpentry.org/blog/2016/12/hand-crafted-databases)
-
-
-#### recommended
-
+- Zotero library: [research-data-management](https://www.zotero.org/groups/4398962/research-data-management/library)
+- tag: `database`
+- requested reading(s):
+  + *Zimmerman 2016*

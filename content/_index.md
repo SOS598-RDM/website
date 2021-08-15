@@ -33,16 +33,18 @@ an integral component of the course and, though not required, students will
 benefit by having some familiarity with a data-centric scripting language
 (e.g., R, Python, Matlab).
 
-#### texts
+#### reading
 
-The instructor will provide all relevant reading materials. Though not
-required, [R for Data Science](http://r4ds.had.co.nz/){:target="\_blank"}
-(R4DS) is an excellent companion to the course. R4DS is available in print and
-in full text (for free) on the author's website.
+Course readings consist of academic papers and some blog posts. The instructor
+will provide links to all reading materials, which are open access or
+accessible through your ASU Library affiliation. Though not required, [R for
+Data Science](http://r4ds.had.co.nz/){:target="\_blank"} (R4DS) is an excellent
+companion to the course. R4DS is available in print and in full text (for free)
+on the author's website.
 
 #### materials
 
-* We will use Git and GitHub extensively throughout the course. Please install [Git](https://git-scm.com/downloads){:target="\_blank"}. Once installed, all Git functionality is available through the command line. However, there are several graphical user interaces (GUIs) available if you are unfamiliar with the command line or simply prefer a GUI. GitHub has its own [desktop application](https://desktop.github.com/){:target="\_blank"}, but we recommend and will use the version control functionality provided by [RStudio](https://www.rstudio.com/products/rstudio/download/){:target="\_blank"} for most in-class examples and demonstrations.
+* We will use Git and GitHub extensively throughout the course. Please install [Git](https://git-scm.com/downloads){:target="\_blank"}. Once installed, all Git functionality is available through the command line. However, there are several graphical user interfaces (GUIs) available if you are unfamiliar with the command line or simply prefer a GUI. GitHub has its own [desktop application](https://desktop.github.com/){:target="\_blank"}, but we recommend and will use the version control functionality provided by [RStudio](https://www.rstudio.com/products/rstudio/download/){:target="\_blank"} for most in-class examples and demonstrations.
 * Students are welcome to use the tool(s) or programming language of their choice to address assignments and class activities, but most in-class examples and assignment templates will be presented using [R](https://cran.r-project.org/){:target="\_blank"} and [RStudio](https://www.rstudio.com/products/rstudio/download/){:target="\_blank"}.
 * [DB Browser for SQLite](http://sqlitebrowser.org/){:target="\_blank"}.
 * You should have access to a laptop and bring it to every class.

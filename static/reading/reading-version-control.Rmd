@@ -1,5 +1,5 @@
 ---
-title: "metadata"
+title: version-control
 output: 
   html_document: 
     theme: yeti
@@ -10,9 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 <br>
 
-#### recommended readings: metadata
+#### recommended readings: reproducible research 
 
 - Zotero library: [research-data-management](https://www.zotero.org/groups/4398962/research-data-management/library)
-- tag: `metadata`
-- requested reading(s):
-  + *Stone 2019*
+- tag: `Git`

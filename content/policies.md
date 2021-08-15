@@ -3,14 +3,14 @@ title: 'SOS 598 Research Data Management Course Policies'
 markup: "mmark"
 ---
 
-### Office hours
+### office hours
 
-Office hours are held Friday afternoons 14:00-16:00 at a location to be
-determined. Additionally, students are welcome and encouraged to contact the
+Office hours are available Friday before class from 10-12 at a location to be
+determined.  Additionally, students are welcome and encouraged to contact the
 instructor by email to schedule appointments outside of the designated office
 hours.
 
-### Course description
+### course description
 
 The effective management of research data is a challenge for researchers in all
 fields of study. Federal funding agencies require that proposals contain data
@@ -37,7 +37,7 @@ The extended classroom period is designed to permit some assignments and
 practical exercises to be worked on in class with access to instructor
 resources.
 
-### Learning objectives
+### learning objectives
 
 Students completing this course will:
 
@@ -51,7 +51,7 @@ Students completing this course will:
     required by many funding agencies.
 5.  Know where to seek new knowledge in this rapidly evolving field.
 
-### Course materials
+### course materials
 
 Materials for this class will consist primarily of research articles, book
 chapters, and posts. All materials (or links to the materials) will be made
@@ -60,7 +60,7 @@ Instructor presentations will typically be posted to the course GitHub
 repository for student review at least one week in advance. Assignments and
 corresponding grading rubrics are provided on the course GitHub repository.
 
-### Student grading
+### student grading
 
 | component                                | percentage |
 | :--------------------------------------- | ---------: |
@@ -79,9 +79,9 @@ assignments prior to class, contributing insightful comments, and a commitment
 to class activities will demonstrate levels of preparedness and participation
 that enable others to learn from and with you.
 
-### Course, Department, and University policies
+### course, department, and University policies
 
-#### Attendance
+#### attendance
 
   - **General:** Students are expected to be present during all class
     periods. If students anticipate they will need to be absent due to
@@ -105,7 +105,7 @@ that enable others to learn from and with you.
     at the beginning of the semester about the need to be absent from
     class due to religious observances.
 
-#### Expected Classroom Behavior
+#### expected classroom behavior
 
 Students will not be permitted to interfere with the learning experience
 of others. Therefore, please ensure cell phones are off, do not surf the
@@ -113,7 +113,7 @@ web on anything unrelated to class during class time, listen
 attentively, and be respectful to the needs and priorities of all
 students.
 
-#### ASU Policy on Academic Integrity
+#### ASU policy on academic integrity
 
 Academic honesty is expected of all students in all examinations,
 papers, laboratory work, academic transactions and records. The possible
@@ -140,13 +140,13 @@ responsibility of providing appropriate attribution. Attribution is not
 about the legalities of copyright but about the integrity of
 scholarship.
 
-#### Threatening Behavior
+#### threatening behavior
 
 In the case of threatening or disruptive behavior by a student, policies
 outlined in <http://www.asu.edu/aad/manuals/ssm/ssm104-02.html> will be
 followed.
 
-#### Disability Policy Statement
+#### disability policy statement
 
   - **Disability Accommodations:** Qualified students with disabilities
     who will require disability accommodations in this class are
