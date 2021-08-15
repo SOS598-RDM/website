@@ -1,5 +1,5 @@
 ---
-title: reproducible-research
+title: data-publishing
 output: 
   html_document: 
     theme: yeti
@@ -10,9 +10,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 <br>
 
-#### recommended readings: reproducible research 
+#### recommended readings: open science
 
 - Zotero library: [research-data-management](https://www.zotero.org/groups/4398962/research-data-management/library)
 - tag: `reproducible research`
-- requested reading(s):
-  + *Lowndes et al. 2017*
+
+#### recommended readings: data publishing
+
+- Zotero library: [research-data-management](https://www.zotero.org/groups/4398962/research-data-management/library)
+- tag: `open science`
