@@ -17,7 +17,7 @@ markup: "mmark"
 [Stevan Earl](https://sustainability.asu.edu/person/stevan-earl/) 
 - <a href="mailto:stevan.earl@asu.edu" title="email"><i class="fa fa-envelope"></i></a> &nbsp; <a href="https://github.com/SOS598-RDM" title="GitHub"><i class="fa fa-github"></i></a> &nbsp; <a href="https://twitter.com/StevanEarl" title="Twitter"><i class="fa fa-twitter"></i></a>
 - phone: 5-1851
-- office: TBD
+- office: ether
 
 <!--
 {.table .table-condensed .table-striped .text-left}

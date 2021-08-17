@@ -1,6 +1,6 @@
 lessons:
   - date: "2021-08-20"
-    title: "course introduction and best practices"
+    title: "course introduction and reproducible research"
     instructor: "Earl"
     slides: "https://sos598-rdm.github.io/rdm-lecture-introduction/#1"
     reading: "reading-reproducible-research.html"
@@ -11,7 +11,7 @@ lessons:
     reading: "reading-version-control.html"
   - slides: "https://drive.google.com/file/d/1SqaAvVfI3PQprqmPREZAK8LA0m2eme-U/view"
   - date: "2021-09-03"
-    title: "project management and collaborating with Git and GitHub"
+    title: "Git and GitHub"
     instructor: "Earl"
     slides: "https://sos598-rdm.github.io/rdm-lecture-collaboration/"
     reading: "reading-version-control.html"
