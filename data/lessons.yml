@@ -8,6 +8,7 @@ lessons:
     title: "introduction to version control"
     instructor: "Earl"
     slides: "https://sos598-rdm.github.io/rdm-lecture-git/"
+    materials: "https://github.com/SOS598-RDM/rdm-lecture-git"
     reading: "reading-version-control.html"
   - slides: "https://drive.google.com/file/d/1SqaAvVfI3PQprqmPREZAK8LA0m2eme-U/view"
   - date: "2021-09-03"
