@@ -20,6 +20,7 @@ lessons:
     title: "literate programming"
     instructor: "Earl"
     slides: "https://sos598-rdm.github.io/rdm-lecture-rmarkdown/"
+    materials: "https://github.com/SOS598-RDM/rdm-lecture-rmarkdown"
     reading: "reading-markdown.html"
     homework: "https://github.com/SOS598-RDM"
   - date: "2021-09-17"
