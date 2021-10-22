@@ -48,6 +48,7 @@ lessons:
   - date: "2021-10-22"
     title: "project organization and environments"
     instructor: "Earl"
+    slides: "https://sos598-rdm.github.io/rdm-lecture-project-org/"
     reading: "reading-projects.html"
   - date: "2021-10-29"
     title: "publishing data and open science"
