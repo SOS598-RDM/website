@@ -63,6 +63,7 @@ lessons:
   - date: "2021-11-12"
     title: "generating metadata (EML or Frictionless)"
     instructor: "Earl"
+    materials: "https://github.com/SOS598-RDM/rdm-lecture-metadata/blob/master/data/stream_chemistry_metadata.md"
     homework: "https://github.com/SOS598-RDM/assignment_submission_workflow/blob/master/data_publication_exercise.md"
   - date: "2021-11-19"
     title: "data management plans"
